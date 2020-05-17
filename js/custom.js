@@ -45,7 +45,7 @@ pannellum.viewer('panorama', {
                 },
                 {
                     "pitch": -2.1,
-                    "yaw": 132.9,
+                    "yaw": 87,
                     "type": "scene",
                     "text": "Spring House or Dairy",
                     "sceneId": "house"

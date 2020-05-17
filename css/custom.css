@@ -1,0 +1,13 @@
+.pnlm-hotspot{
+    height: 4em;
+    width: 4em;
+    border-radius: 50%;
+}
+.pnlm-hotspot.pnlm-scene {
+    background-position: 0 -20em;
+    background-size: 4em;
+}
+.pnlm-hotspot.pnlm-info {
+    background-position:  0 -16em;
+    background-size: 4em;
+}

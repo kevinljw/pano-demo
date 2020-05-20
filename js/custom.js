@@ -11,7 +11,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "images/bma-1.jpg",
+            "panorama": "images/98361770_702034860564162_2702722799390162944_n.jpg",
             "autoLoad": true,
             "autoRotate": -2,
             "compass": true,
@@ -58,7 +58,7 @@ pannellum.viewer('panorama', {
             "hfov": 110,
             "yaw": 5,
             "type": "equirectangular",
-            "panorama": "/images/bma-0.jpg",
+            "panorama": "/images/bma-1.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,

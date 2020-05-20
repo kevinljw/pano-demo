@@ -11,7 +11,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "images/98331060_240224720755374_3763016814498414592_n.jpg",
+            "panorama": "images/99113978_199047774425890_3507696221525377024_n.jpg",
             "autoLoad": true,
             "autoRotate": -2,
             "compass": true,

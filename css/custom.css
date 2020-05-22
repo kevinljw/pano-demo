@@ -11,3 +11,6 @@
     background-position:  0 -16em;
     background-size: 4em;
 }
+.pnlm-about-msg{
+    display: none !important;
+}

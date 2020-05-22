@@ -1,4 +1,6 @@
 var northDir = 247.5;
+var hfovValue = 100;
+
 pannellum.viewer('panorama', {
     "default": {
         "firstScene": "circle",
@@ -8,7 +10,7 @@ pannellum.viewer('panorama', {
     "scenes": {
         "circle": {
             "title": "Innovation Zone",
-            "hfov": 110,
+            "hfov": hfovValue,
             "pitch": -3,
             "yaw": 1,
             "type": "equirectangular",
@@ -63,7 +65,7 @@ pannellum.viewer('panorama', {
 
         "house": {
             "title": "LiDAR & RADAR",
-            "hfov": 110,
+            "hfov": hfovValue,
             "pitch": -3,
             "yaw": 105,
             "type": "equirectangular",
@@ -99,7 +101,7 @@ pannellum.viewer('panorama', {
         },
         "house2": {
             "title": "Power Train",
-            "hfov": 110,
+            "hfov": hfovValue,
             "pitch": -3,
             "yaw": 40,
             "type": "equirectangular",
